@@ -112,16 +112,16 @@ export const CUSINES = [
 ];
 
 export const REVIEW = {
-  name: "Xaviour Fernando",
+  name: "Yevhen Derkach",
   profession: "Food Critic",
   content:
     "“As a seasoned food critic, my expectations are always high when stepping into a new dining establishment. Restaura, with its unassuming exterior and elegantly designed interior, promised a unique culinary experience from the moment I walked in. And I must say, it delivered beyond my expectations.”",
 };
 
 export const CONTACT = [
-  { key: "address", value: "Address: 123 Main Street, Paris, France, 345678" },
-  { key: "phone", value: "Phone: 123-456-7890" },
-  { key: "email", value: "Email: contact@restaurant.com" },
+  { key: "address", value: "Address: 6B Novooskolska Street, Irpin, Ukraine, 08200" },
+  { key: "phone", value: "Phone: +380-687-401-354" },
+  { key: "email", value: "Email: derkachyevhen@gmail.com" },
 ];
 
 export const SOCIAL_MEDIA_LINKS = [
